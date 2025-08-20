@@ -1,0 +1,10 @@
+# insert the following line to ignore .csv files in the top level
+*.csv
+
+# insert the following line to ignore .csv files in all subfolders
+**.csv
+
+**.csv
+**.mat
+**.nc
+**.cdf
